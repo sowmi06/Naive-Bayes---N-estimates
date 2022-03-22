@@ -3,7 +3,17 @@ The Naive Bayes algorithim of n- estimate version is implemented from scratch, f
 
 ## Dataset
 The dataset used for this code is ["MONK's Problems Data Set"](https://archive.ics.uci.edu/ml/datasets/MONK's+Problems) from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php).
+ - The dataset has “ 432” instances.
+ - The dataset has “ 6 ” features.
+ - The dataset has no missing values.
+ - All the attributes are categorical.
+ - The classes in the dataset for classification is “0” and “1”.
+ - A 70-30% split is made for testing and training data(“302” instances as train and “130” instance as test.)
   
+## Results
+The Naive Bayes algorithim of n- estimate version with the MONK's Problems Data Set gave the following accuracy:
+ - Training Accuracy: 73.5 %
+ - Testing Accuracy: 78.4 %
 
 ## Configuration Instructions
 The [Project]() requires the following tools and libraries to run the source code.
