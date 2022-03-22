@@ -16,7 +16,7 @@ The Naive Bayes algorithim of n- estimate version with the MONK's Problems Data 
  - Testing Accuracy: 78.4 %
 
 ## Configuration Instructions
-The [Project]() requires the following tools and libraries to run the source code.
+The [Project](https://github.com/sowmi06/Naive-Bayes-N-estimates.git) requires the following tools and libraries to run the source code.
 ### System Requirements 
 - [Anaconda Navigator](https://docs.anaconda.com/anaconda/navigator/install/)
     - Python version 3.6.0 – 3.9.0
@@ -36,7 +36,7 @@ The [Project]() requires the following tools and libraries to run the source cod
 The following are the steps to replicate the exact results acquired from the project:
 
 - Satisify all the system and the tool, libraries requirements.
-- Clone the [Naive-Bayes-N-estimates]() repository into your local machine. 
+- Clone the [Naive-Bayes-N-estimates](https://github.com/sowmi06/Naive-Bayes-N-estimates.git) repository into your local machine. 
 - Download the [Monk's Dataset](https://archive.ics.uci.edu/ml/datasets/MONK's+Problems) from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php).
-- The [Naive_Bayes.py]() has the code for the preprocessing steps and final classifiaction output.
+- The [Naive_Bayes.py](https://github.com/sowmi06/Naive-Bayes-N-estimates/blob/main/Naive_Bayes.py) has the code for the preprocessing steps and final classifiaction output.
 
