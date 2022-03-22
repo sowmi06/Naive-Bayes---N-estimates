@@ -1,6 +1,5 @@
 # Naive-Bayes-N-estimates
-- The Naive Bayes algorithim of n- estimate version is implemented from scratch, for a classification problem. 
-- The Naive Bayes algorithim is implemented from scratch without the use of in-built library for NB.
+The Naive Bayes algorithim of n- estimate version is implemented from scratch, for a classification problem. The Naive Bayes algorithim is implemented from scratch without the use of in-built library for Naive Bayes.
 
 ## Dataset
 The dataset used for this code is ["MONK's Problems Data Set"](https://archive.ics.uci.edu/ml/datasets/MONK's+Problems) from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php).
